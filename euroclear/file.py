@@ -1,1 +1,1 @@
-print('siduuuuuuuuuuuuuuuuuu')
+print('sas2py_logo')
